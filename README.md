@@ -11,4 +11,4 @@
 
 ## pics of my project
 
-![my-pics]()
+![my-pics](photos/photoPresen.png)
