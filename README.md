@@ -12,3 +12,7 @@
 ## pics of my project
 
 ![my-pics](photos/photoPresen.png)
+
+## dificult ?
+
+- ***this carrousel***
